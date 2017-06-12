@@ -13,7 +13,7 @@ require_once(dirname(__File__)."/resources/libraries/functions.php");  /* Functi
 		<?php require_once(TEMPLATE_PATH."header.php"); /* Header File */ ?>
 	</div><!-- header_block -->
 
-	<div class="primary_content wrapper">
+	<div class="primary_content wradpper">
 		<div class="main_content">
     		<?php get_the_layout(); ?>
 		</div><!-- wrapper -->
